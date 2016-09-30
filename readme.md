@@ -13,15 +13,15 @@ Use cases:
 If you need to print labels, we also have [LabelCloud](https://function61.com/products/labelcloud/)
 offering, which is built on NX Print's technology.
 
-Browser support
----------------
-
-Supports all desktop browsers.
-
 Download
 --------
 
 Downloads and more info from [function61.com/products/nxprint](https://function61.com/products/nxprint/)
+
+Licensing
+---------
+
+NX Print is not free software - only this documentation is covered under GPL. [Contact us for licensing](https://function61.com/products/nxprint/).
 
 Demo website
 ------------
@@ -110,3 +110,8 @@ Security
 --------
 
 Head over to NX documentation which covers the security aspects also provided for NX Print.
+
+Browser support
+---------------
+
+Supports all desktop browsers.
