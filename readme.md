@@ -10,8 +10,10 @@ Use cases:
 - Print PDF just-like-you-see-it to the printer (no more browser-based differences)
 - Raw printer-level access (control the printer in its own language)
 
-If you need to print labels, we also have [LabelCloud](https://function61.com/products/labelcloud/)
-offering, which is built on NX Print's technology.
+Features:
+
+- Clean, modern integration. Works with all desktop browsers.
+- Supports printing labels. Head over to [LabelCloud](https://function61.com/products/labelcloud/) offering, which is built on NX Print's technology.
 
 Download
 --------
