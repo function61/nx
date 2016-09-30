@@ -42,7 +42,7 @@ Include in your HTML:
 <script src="nx-print.js"></script>
 ```
 
-This .js files you find from the install paths of NX and NX Print on your computer.
+These .js files you find from the install paths of NX and NX Print on your computer.
 
 TODO: improve this mechanism.
 
