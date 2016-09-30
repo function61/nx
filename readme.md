@@ -23,12 +23,15 @@ Download
 
 Downloads and more info from [function61.com/products/nxprint](https://function61.com/products/nxprint/)
 
-API
----
-
-### Demo website
+Demo website
+------------
 
 [View demo website](https://s3.amazonaws.com/xs.fi/nx/example/nx.nxprint_1_0-demo.html).
+
+TODO: just link to LabelCloud go.
+
+API
+---
 
 ### Prerequisites
 
@@ -38,6 +41,10 @@ Include in your HTML:
 <script src="nx.js"></script>
 <script src="nx-print.js"></script>
 ```
+
+This .js files you find from the install paths of NX and NX Print on your computer.
+
+TODO: improve this mechanism.
 
 ### List printers
 
